@@ -40,11 +40,14 @@
 ###  **● The *feature extraction* related functions are on files:** 
   `Feature_generator_function.m`, `generate_statistics_features_KW51_bridge.m` and `generate_statistics_features_laboratory_frame.m`
 
+###  **● Pre-extracted features (statistics) are on directories:** 
+  `Features - Statistics - KW51 bridge` and `Features - Statistics - Laboratory Frame`
+
 ###  **● The *QML* model computations related functions (in python) are on files:** 
 `Links for QML model training code and result.xlsx` spreadsheet containing jupyter notebooks of each simulation
 
 > [!TIP]
-> <p align="justify">Jupyter QML notebooks can be run on Google Colab platform cloud CPUs, so partial training and testing results can be observed without needing to re-run the code!
+> <p align="justify">Jupyter QML notebooks can be run on Google Colab platform cloud CPUs, so partial training and testing results can be observed without needing to re-run the code! In order to run it by yourself, just upload the pre-extracted features.
 
 ###   **● The *k-means* computations related functions (in matlab) are on files:** 
 `acc_kmeans_KW51.m" and "acc_kmeans_laboratory_frame.m`
