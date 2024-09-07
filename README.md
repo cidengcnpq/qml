@@ -44,7 +44,7 @@
   `Features - Statistics - KW51 bridge` and `Features - Statistics - Laboratory Frame`
 
 ###  **● The *QML* model computations related functions (in python) are on files:** 
-`Jupyter codes` contain Jupyter notebook codes in subfolders for each experimental application
+`Jupyter codes` contain Jupyter notebook codes in subfolders for each experimental application. 
 `Links for QML model training code and result.xlsx` spreadsheet containing Google Colaboratory notebooks of each simulation
 
 > [!TIP]
