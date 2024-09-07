@@ -48,7 +48,7 @@
 `Links for QML model training code and result.xlsx` is a spreadsheet containing the summary results and the Google Colaboratory links of each simulation
 
 > [!TIP]
-> <p align="justify">Jupyter QML notebooks can be run on Google Colab platform cloud CPUs, so partial training and testing results can be observed without needing to re-run the code! In order to run it by yourself, just upload the pre-extracted features.
+> <p align="justify">You can run Jupyter QML notebooks on Google Colab using cloud CPUs. To try it yourself, simply upload the pre-extracted features. You can view partial training and testing results without needing to re-run the code. Check the `Jupyter codes` folder or run the notebook directly on Colab.
 
 ###   **● The *k-means* computations related functions (in matlab) are on files:** 
 `acc_kmeans_KW51.m" and "acc_kmeans_laboratory_frame.m`
