@@ -44,7 +44,8 @@
   `Features - Statistics - KW51 bridge` and `Features - Statistics - Laboratory Frame`
 
 ###  **● The *QML* model computations related functions (in python) are on files:** 
-`Links for QML model training code and result.xlsx` spreadsheet containing jupyter notebooks of each simulation
+`Jupyter codes` contain Jupyter notebook codes in subfolders for each experimental application
+`Links for QML model training code and result.xlsx` spreadsheet containing Google Colaboratory notebooks of each simulation
 
 > [!TIP]
 > <p align="justify">Jupyter QML notebooks can be run on Google Colab platform cloud CPUs, so partial training and testing results can be observed without needing to re-run the code! In order to run it by yourself, just upload the pre-extracted features.
