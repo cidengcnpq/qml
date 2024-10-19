@@ -38,22 +38,22 @@
 `March - 4am`, `April - 4am`, `July - 4am` and `October - 4am`.
 
 ###  **● The *feature extraction* related functions are on files:** 
-  `Feature_generator_function.m`, `generate_statistics_features_KW51_bridge.m` and `generate_statistics_features_laboratory_frame.m`
+  `Feature_generator_function.m`, `generate_statistics_features_KW51_bridge.m` and `generate_statistics_features_laboratory_frame.m`.
 
 ###  **● Pre-extracted features (statistics) are on directories:** 
-  `Features - Statistics - KW51 bridge` and `Features - Statistics - Laboratory Frame`
+  `Features - Statistics - KW51 bridge` and `Features - Statistics - Laboratory Frame`.
 
 ###  **● The *QML* model computations related functions (in python) are on files:** 
 `Jupyter codes` contain Jupyter notebook codes in subfolders for each experimental application. 
-`Links for QML model training code and result.xlsx` is a spreadsheet containing the summary results and the Google Colaboratory links of each simulation
+`Links for QML model training code and result.xlsx` is a spreadsheet containing the summary results and the Google Colaboratory links of each simulation.
 
 > [!TIP]
 > <p align="justify">You can run Jupyter QML notebooks on Google Colab using cloud CPUs. To try it yourself, simply upload the pre-extracted features. You can view partial training and testing results without needing to re-run the code. Check the `Jupyter codes` folder or run the notebook directly on Colab.
 
-###   **● The *k-means* computations related functions (in matlab) are on files:** 
-`acc_kmeans_KW51.m" and "acc_kmeans_laboratory_frame.m`
+###   **● The *k-means* and *hierarchical clustering* computations related functions (in matlab) are on files:** 
+`acc_kmeans_KW51.m`, `acc_kmeans_laboratory_frame.m`, `hierarchical_clustering_KW51.m` and `hierarchical_clustering_laboratory_frame.m`.
 
 ###   **● The *Comparison of QML and k-means* functions are on files:** 
-`acc_comparison_KW51.m` and `acc_comparison_laboratory_frame.m`
+`acc_comparison_KW51.m` and `acc_comparison_laboratory_frame.m`.
 
 [^4]: [A. Rytter, Vibrational based inspection of civil engineering structures. Dept. of Building Technology and Structural Engineering, Aalborg University, Fracture and Dynamics. R9314 (44) (1993).](https://vbn.aau.dk/en/publications/vibrational-based-inspection-of-civil-engineering-structures)
