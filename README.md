@@ -4,7 +4,7 @@
 #### Victor Higino Meneguitte Alves[^1], M.Sc. in Civil Engineering
 -	Graduate Program in Civil Engineering, Faculty of Engineering, University of Juiz de Fora, Juiz de Fora, Minas Gerais, Brazil
 
-#### Raphael Fortes Infante Gomes[^2], Adjunt Professor 
+#### Raphael Fortes Infante Gomes[^2], Assistant Professor 
 -	Faculty of Physical Engineering, University of Latin American Integration, Foz do Iguaçu, Paraná, Brazil
 
 #### Alexandre Abrahão Cury[^3], Associate Professor
